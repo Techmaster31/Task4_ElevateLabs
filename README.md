@@ -20,9 +20,6 @@
 ##  Deliverables
 
 - ✅ `ecommerce_analysis_queries.sql` — all SQL queries
-- ✅ `ecommerce_analysis_documentation.md` — markdown documentation
-- ✅ `ecommerce_analysis_documentation_clean.pdf` — PDF version
-- ✅ (Optional) Screenshots of query results in `/screenshots`
 
 ##  How to Run
 
